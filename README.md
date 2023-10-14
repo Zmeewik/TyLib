@@ -1,3 +1,3 @@
 # TyLib
 Lib
-![diagram (2)](https://github.com/Zmeewik/TyLib/assets/74759106/91c686ca-0fb0-44ca-8e14-19d138463ba1)
+![Untitled](https://github.com/Zmeewik/TyLib/assets/74759106/b4d911b1-e903-4d51-9a1c-936c1fba9683)
